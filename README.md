@@ -1,5 +1,3 @@
-Here’s a detailed and formatted README.md file with the requested features, steps, and structure, including a table summarizing the application components:
-
 ---
 
 # Real-Time Maps
@@ -168,7 +166,7 @@ Add the following permissions in `AndroidManifest.xml` for location access:
 
 ## Application UI
 
-1. **Sign-In Page**: Allows users to log in using local credentials.
+1. **Sign-In Page**: Allows users to log in using local credentials with(email: 'test@example.com',password: '123456').
 2. **Dashboard**:
    - Displays two maps:
       - **Map 1**: User A's current location.
