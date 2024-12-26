@@ -145,6 +145,25 @@ Add the following permissions in `AndroidManifest.xml` for location access:
 
 ```
 
+## Database File
+```json
+{
+  "users": {
+    "userA_id": {
+      "location": {
+        "latitude": 12.2963584,
+        "longitude": 76.6352863
+      }
+    },
+    "userB_id": {
+      "location": {
+        "latitude": 12.2963359,
+        "longitude": 76.6353778
+      }
+    }
+  }
+}
+```
 ---
 
 ## Application UI
