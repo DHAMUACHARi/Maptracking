@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099252653009",
+    "project_id": "doument-management-app",
+    "storage_bucket": "doument-management-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099252653009:android:3743ac97611fdc075e5ef0",
+        "android_client_info": {
+          "package_name": "com.dhamu.www.document_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4MUwAOAzouoRQOxYDA75AftEKrNW7Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099252653009:android:e23668d1fb7f29f85e5ef0",
+        "android_client_info": {
+          "package_name": "com.example.real_time_maps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx4MUwAOAzouoRQOxYDA75AftEKrNW7Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
