@@ -70,7 +70,7 @@ For beginners, refer to the following resources:
 - Clone the project:
 
 ```bash
-git clone https://github.com/yourusername/real_time_maps.git
+https://github.com/DHAMUACHARi/Maptracking.git
 cd real_time_maps
 ```
 
